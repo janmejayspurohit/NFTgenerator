@@ -11,9 +11,6 @@ lerna-debug.log\*
 
 report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
-# Layers
-layers
-
 # Runtime data
 
 pids

@@ -1,4 +1,4 @@
-# Source Code to generate your own NFT"
+# Source Code to generate your own NFTs
 
 Inspired from: [Youtube codeStackr](https://github.com/codeSTACKr/video-source-code-create-nft-collection/releases/tag/v0.1.0-alpha)
 
